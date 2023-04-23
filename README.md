@@ -12,4 +12,5 @@ pip install yt_dlp
 pip install configparser
 ```
 3. Specify the `video_id` in config.ini
+![Tutorial](https://raw.githubusercontent.com/kotoff-studio/ytmp3/main/Untitled.png)
 4. Run script: `py download.py`
